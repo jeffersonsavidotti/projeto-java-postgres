@@ -4,7 +4,7 @@ Este projeto é uma implementação completa de um sistema CRUD (Create, Read, U
 
 ## 📋 Pré-requisitos
 
-- Java 24 ou superior
+- Java 21 ou superior
 - Maven 3.6+
 - PostgreSQL instalado e rodando
 - Banco de dados criado (veja instruções abaixo)
